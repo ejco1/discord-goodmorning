@@ -1,0 +1,5 @@
+{
+  "urls" : ["https://discord.com/api/v9/channels/YOUR-CHANNEL-ID-HERE/messages", "https://discord.com/api/v9/channels/YOUR-CHANNEL-ID-HERE/messages"],
+  "authKey": "YOUR-AUTH-KEY-HERE-DON'T-SHARE-IT",
+  "variations" : [ "Message1", "Message2", ""]
+}

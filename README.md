@@ -12,5 +12,5 @@ To keep things abstracted and hidden, I have everything linked to a config.json 
 Should you run the .bat file from startup, make sure to adjust the line that reads: ' open(r"config.json") ' to read the absolute path to make sure your script can see it!
 If you did it right, the adjustment should look like ' open(r"C:/PATH/TO/config.json", 'r')
 
-Thanks.
-- Ethan
+Thanks,
+//Ethan

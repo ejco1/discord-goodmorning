@@ -2,7 +2,7 @@ import requests
 import random
 import json
 
-with open('config.json', 'r') as config:
+with open(r"config.json", 'r') as config:
     config_data = json.load(config)
 
 urls = config_data["urls"]
